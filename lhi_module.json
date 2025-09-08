@@ -1,0 +1,25 @@
+{
+  "name": "lhi_browser_automation_dashboard",
+  "version": "0.1.0",
+  "formFactor": "lhi_node_modules",
+  "type": "web-app",
+  "status": "planning",
+  "description": "Unified browser automation control center for Puppeteer, Playwright, and Kapture MCPs with intelligent Chrome profile management",
+  "dependencies": {
+    "lhi_chrome_profile_utils": "*",
+    "lhi_ui_framework": "*",
+    "lhi_puppeteer_browser": "*"
+  },
+  "author": "Life Hack Innovations LLC",
+  "created": "2025-01-09",
+  "license": "MIT",
+  "keywords": [
+    "browser-automation",
+    "puppeteer",
+    "playwright",
+    "kapture",
+    "mcp",
+    "chrome-profiles",
+    "ui-dashboard"
+  ]
+}
